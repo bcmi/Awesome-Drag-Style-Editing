@@ -58,7 +58,7 @@ These methods complete editing in a single forward pass by reformulating drag ed
 
 In region-based drag, users provide a source region mask (original location/shape) and a target region mask (desired location/shape), offering denser and more precise control that substantially reduces ambiguity compared with point-based drag.
 
-
+- Jiacheng Sui, Tianyu Hao, Bingjie Gao, Li Niu, Guangtao Zhai: "In-context Region-based Drag: Drag Any Region to Any Shape." ECCV (2026) [[arXiv](https://arxiv.org/abs/2606.25907)]  [[code](https://github.com/bcmi/ICRDrag-Region-Drag-Editing)] [[demo](https://drag.ustcnewly.com/)]
 - Zihan Zhou, Shilin Lu, Shuli Leng, Shaocong Zhang, Zhuming Lian, Xinlei Yu, Adams Wai-Kin Kong: "DragFlow: Unleashing DiT Priors with Region Based Supervision for Drag Editing." ICLR (2026) [[arXiv](https://arxiv.org/abs/2510.02253)] [[paper](https://openreview.net/pdf?id=Zhckizkww1)] [[code](https://github.com/Edennnnnnnnnn/DragFlow)]
 - Jingyi Lu, Xinghui Li, Kai Han: "RegionDrag: Fast Region-Based Image Editing with Diffusion Models." ECCV (2024) [[arXiv](https://arxiv.org/abs/2407.18247)] [[paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/01176.pdf)] [[code](https://github.com/Visual-AI/RegionDrag)] [[project](https://visual-ai.github.io/regiondrag/)] [[demo](https://colab.research.google.com/drive/1pnq9t_1zZ8yL_Oba20eBLVZLp3glniBR?usp=sharing)]
 - Naoki Matsunaga, Masato Ishii, Akio Hayakawa, Kenji Suzuki, Takuya Narihira: "Fine-grained Image Editing by Pixel-wise Guidance Using Diffusion Models." arXiv:2212.02024 (2022) [[arXiv](https://arxiv.org/abs/2212.02024)] [[code](https://github.com/sony/pixel-guided-diffusion)]
